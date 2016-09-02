@@ -1,0 +1,380 @@
+<application>
+  <component name="GrepConsole">
+    <option name="profiles">
+      <list>
+        <Profile>
+          <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
+          <option name="enableMaxLengthLimit" value="false" />
+          <option name="grepExpressionGroups">
+            <list>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Running Test.*" />
+                      <option name="id" value="3eec7942-eb97-4026-98bf-fc4e1755bff6" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-3026479" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="22ec07e1-912b-4229-b82d-f373880fb814" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="DataSyncCommandLineTests.*" />
+                      <option name="id" value="41c91fb4-f0fd-49fa-81db-422b951bf05a" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="22ec07e1-912b-4229-b82d-f373880fb814" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*runCommand.*" />
+                      <option name="id" value="8b3c4771-0efe-46a7-88e2-ba9f613dd844" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1513240" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16665335" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="a947bda3-2b88-49c5-b43e-d33b670372c2" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="command is.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="1424360e-9053-4f2a-8216-32e23badb8cc" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-12939532" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="e451e178-349b-44c7-a50a-c0c83dbb5e20" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*TEST PASSED:.*" />
+                      <option name="id" value="b7613626-44e8-4bc4-98fb-ff4fbb721a5b" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16665335" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="cca101ab-26ba-4f4d-9714-ca77a4a54884" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*TEST FAILED:.*" />
+                      <option name="id" value="4a843724-3740-47f2-8b92-46e6b70a58e1" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="sound">
+                        <Sound>
+                          <option name="enabled" value="true" />
+                          <option name="path" value="C:\Windows\Media\Sonata\Windows Exclamation.wav" />
+                        </Sound>
+                      </option>
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5364450" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="9881e6ec-7289-4a2a-aa44-d681868f3bf4" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*AssertionError.*" />
+                      <option name="id" value="eeea6098-6555-4f9c-9096-708c1511e5a9" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5364450" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="9881e6ec-7289-4a2a-aa44-d681868f3bf4" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="TabOnlineSyncClientCmd" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="DEBUG.*DataSyncCommandLineTests.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="627b5475-4c8a-49d4-9ecf-18ac86afafa1" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-2108443" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="587867a3-795f-4c66-bc37-60ee0d1c99b1" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="DEBUG.*Inspecting DataSource" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="bc3a4c47-249a-402d-9174-ffcc78df05f1" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10878794" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="6262c2c0-dc1d-4d9e-964b-0b1df57aa013" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="DEBUG.*\t.+$" />
+                      <option name="id" value="376f5692-7c77-4e0b-b1a8-bc6898ce4cdb" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10878794" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="fb5f83f1-9083-4c2b-8956-670db953d71c" />
+                          <option name="italic" value="true" />
+                        </GrepStyle>
+                      </option>
+                      <option name="unlessGrepExpression" value="" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="Inspect DataSource" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="enabled" value="true" />
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="^DEBUG.*$" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="80a707cc-63aa-43f1-85dd-f8177c20e517" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="36fb5d03-93fd-4bfb-b584-d62c5d42ed33" />
+                        </GrepStyle>
+                      </option>
+                      <option name="unlessGrepExpression" value=".*DataSyncCommandLineTests.*" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="Hide" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="id" value="d8fc9212-9848-42c0-95a1-f8a5727746c0" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65536" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="3d9faa51-48d0-4c96-9b88-ac98b9bd138e" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="id" value="8a11b8bf-2d42-43c6-8dd4-6b6933971009" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14336" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="470676d6-6c9e-4cbe-ac15-f27db0e2d89e" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="id" value="f2f78262-8033-4e95-81a7-5adda1850715" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-256" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="fd336cce-4983-4e15-b770-b98fe16fcb18" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="id" value="df9389ec-9638-42bf-9591-95af42e37fd5" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-3344129" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="ba112673-542e-4fdf-b8f7-5bc347396f50" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*TRACE.*" />
+                      <option name="id" value="07a846b7-074f-4046-8920-3bc80daba4be" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4144960" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="e7d4d675-ad16-4162-9d77-239354c1b5bb" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="default" />
+              </GrepExpressionGroup>
+            </list>
+          </option>
+          <option name="id" value="1472601801753" />
+        </Profile>
+      </list>
+    </option>
+  </component>
+</application>

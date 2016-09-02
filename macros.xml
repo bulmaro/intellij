@@ -1,0 +1,42 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="assertThat">
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordEnd" />
+      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;84:1;72:0;65:0;84:0">assertThat</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="$Undo" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorBackSpace" />
+      <action id="EditorLineStart" />
+      <action id="EditorLineStart" />
+      <action id="EditorDown" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorRight" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLeft" />
+      <typing text-keycode="44:0;32:0">,&amp;#x20;</typing>
+      <action id="EditorDelete" />
+      <action id="EditorDeleteToWordEnd" />
+      <typing text-keycode="67:1;79:0;82:0;69:0;77:1;65:0;84:0;67:0;72:0;69:0;82:0;83:0;46:0;67:0;79:0;78:0;84:0;65:0;73:0;78:0;83:0;83:1;84:0;82:0;73:0;78:0;71:0">CoreMatchers.containsString</typing>
+      <action id="EditorLineStart" />
+      <action id="EditorLineStart" />
+      <action id="EditorDown" />
+    </macro>
+  </component>
+</application>
