@@ -9,6 +9,7 @@
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
@@ -178,6 +179,7 @@
                 <option name="name" value="TabOnlineSyncClientCmd" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
