@@ -300,7 +300,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="8a11b8bf-2d42-43c6-8dd4-6b6933971009" />
                       <option name="style">
@@ -316,7 +315,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="f2f78262-8033-4e95-81a7-5adda1850715" />
                       <option name="style">
@@ -332,7 +330,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="df9389ec-9638-42bf-9591-95af42e37fd5" />
