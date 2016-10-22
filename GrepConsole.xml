@@ -9,7 +9,6 @@
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
@@ -85,7 +84,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-12939532" />
+                              <option name="color" value="-7625985" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -171,6 +170,24 @@
                             </GrepColor>
                           </option>
                           <option name="id" value="9881e6ec-7289-4a2a-aa44-d681868f3bf4" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="TabOnlineSyncClientCmd.exe .*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="a8084676-fa26-4df4-8ca0-4422b10fefb1" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-15834124" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="id" value="bc7214cb-dc64-432f-b9e3-0121bc891733" />
+                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
