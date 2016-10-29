@@ -94,7 +94,8 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="command is.*" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".{1}\:\\command is.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="1424360e-9053-4f2a-8216-32e23badb8cc" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -204,6 +205,12 @@
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="id" value="bc7214cb-dc64-432f-b9e3-0121bc891733" />
                           <option name="italic" value="true" />
                         </GrepStyle>
