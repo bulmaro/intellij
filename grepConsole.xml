@@ -32,6 +32,24 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value="Skipping\.\.\." />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="dd9e0ec6-ce38-4804-8727-accd0c1b401e" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4848377" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="id" value="e70e70a4-c522-48a3-aafa-60bc62a9c7b9" />
+                          <option name="italic" value="true" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value="DataSyncCommandLineTests.*" />
                       <option name="id" value="41c91fb4-f0fd-49fa-81db-422b951bf05a" />
                       <option name="style">
@@ -76,7 +94,8 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="command is.*" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".{1}\:\\command is.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="1424360e-9053-4f2a-8216-32e23badb8cc" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -186,6 +205,12 @@
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="id" value="bc7214cb-dc64-432f-b9e3-0121bc891733" />
                           <option name="italic" value="true" />
                         </GrepStyle>
