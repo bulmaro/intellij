@@ -9,6 +9,7 @@
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
@@ -94,7 +95,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".{1}\:\\command is.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="1424360e-9053-4f2a-8216-32e23badb8cc" />
@@ -316,10 +316,10 @@
                 <option name="name" value="Hide" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="d8fc9212-9848-42c0-95a1-f8a5727746c0" />
                       <option name="style">
@@ -392,7 +392,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="07a846b7-074f-4046-8920-3bc80daba4be" />
                       <option name="style">
@@ -410,6 +409,32 @@
                   </list>
                 </option>
                 <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="^INFO.*$" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="4a140ee2-41b0-4f83-a7cd-9d1326f1fe3f" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="7dcb6488-28e2-4675-9c41-c6462a74eb66" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="new" />
               </GrepExpressionGroup>
             </list>
           </option>
