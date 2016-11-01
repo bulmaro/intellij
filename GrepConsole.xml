@@ -9,10 +9,10 @@
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*Running Test.*" />
                       <option name="id" value="3eec7942-eb97-4026-98bf-fc4e1755bff6" />
                       <option name="style">
@@ -33,6 +33,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="Skipping\.\.\." />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="dd9e0ec6-ce38-4804-8727-accd0c1b401e" />
@@ -51,7 +52,9 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value="DataSyncCommandLineTests.*" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value="^[A-z]+\/[A-z]+$" />
+                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="41c91fb4-f0fd-49fa-81db-422b951bf05a" />
                       <option name="style">
                         <GrepStyle>
@@ -70,9 +73,11 @@
                           <option name="id" value="22ec07e1-912b-4229-b82d-f373880fb814" />
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value="" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*runCommand.*" />
                       <option name="id" value="8b3c4771-0efe-46a7-88e2-ba9f613dd844" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -95,6 +100,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".{1}\:\\command is.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="1424360e-9053-4f2a-8216-32e23badb8cc" />
@@ -119,6 +125,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TEST PASSED:.*" />
                       <option name="id" value="b7613626-44e8-4bc4-98fb-ff4fbb721a5b" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -142,6 +149,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TEST FAILED:.*" />
                       <option name="id" value="4a843724-3740-47f2-8b92-46e6b70a58e1" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -171,6 +179,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*AssertionError.*" />
                       <option name="id" value="eeea6098-6555-4f9c-9096-708c1511e5a9" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -193,6 +202,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="TabOnlineSyncClientCmd.exe .*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="a8084676-fa26-4df4-8ca0-4422b10fefb1" />
@@ -221,11 +231,11 @@
                 <option name="name" value="TabOnlineSyncClientCmd" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="DEBUG.*DataSyncCommandLineTests.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="627b5475-4c8a-49d4-9ecf-18ac86afafa1" />
@@ -243,6 +253,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="DEBUG.*Inspecting DataSource" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="bc3a4c47-249a-402d-9174-ffcc78df05f1" />
@@ -265,6 +276,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="DEBUG.*\t.+$" />
                       <option name="id" value="376f5692-7c77-4e0b-b1a8-bc6898ce4cdb" />
                       <option name="style">
@@ -291,10 +303,10 @@
                 <option name="name" value="Inspect DataSource" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^DEBUG.*$" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -316,10 +328,10 @@
                 <option name="name" value="Hide" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="d8fc9212-9848-42c0-95a1-f8a5727746c0" />
                       <option name="style">
@@ -342,6 +354,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="8a11b8bf-2d42-43c6-8dd4-6b6933971009" />
                       <option name="style">
@@ -357,6 +370,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="f2f78262-8033-4e95-81a7-5adda1850715" />
                       <option name="style">
@@ -372,6 +386,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="df9389ec-9638-42bf-9591-95af42e37fd5" />
@@ -392,6 +407,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="07a846b7-074f-4046-8920-3bc80daba4be" />
                       <option name="style">
@@ -414,13 +430,10 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^INFO.*$" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="4a140ee2-41b0-4f83-a7cd-9d1326f1fe3f" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -431,9 +444,30 @@
                           <option name="id" value="7dcb6488-28e2-4675-9c41-c6462a74eb66" />
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value=".*[A-z]{1}\:\\.*" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="^DEBUG.*$" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="820504ea-95f4-4f7f-81fd-55f2b8bbfbeb" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="ca5dda28-d97e-4fcc-8c3e-9394afd60f31" />
+                        </GrepStyle>
+                      </option>
+                      <option name="unlessGrepExpression" value="[A-z]{1}\:\\" />
                     </GrepExpressionItem>
                   </list>
                 </option>
+                <option name="name" value="new" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
                 <option name="name" value="new" />
               </GrepExpressionGroup>
             </list>
