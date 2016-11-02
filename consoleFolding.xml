@@ -4,6 +4,7 @@
       <list>
         <option value="INFO  [2016-08-24 14:48:46,825][main] (DemandUtils.java:648)   - resolveEnvironmentVariables: resolved input is D:\dev\server-dev1\tableau-1.3\build\Release-x64\TabOnlineSyncClientCmd.exe" />
         <option value="INFO  [2016-08-25 11:07:49,657][main] (DemandUtils.java:513)   - runCommand: exit code is 0" />
+        <option value="Expected :0" />
       </list>
     </option>
   </component>
