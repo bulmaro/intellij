@@ -166,6 +166,26 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value="^.*Skipping\.\.\.$" />
+                      <option name="id" value="a70301c4-1d87-43da-897e-0bfc7e1e4a58" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-256" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="a5cb259f-30d3-4513-a914-98fd2846b023" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value="^DEBUG.*DataSyncCommandLineTests.*$" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="ac72dd60-3598-4288-ae6c-28372d77befe" />
