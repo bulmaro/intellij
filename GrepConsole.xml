@@ -274,7 +274,7 @@
                           <option name="id" value="c7951c9a-69c2-47c7-bec1-58687e484f52" />
                         </GrepStyle>
                       </option>
-                      <option name="unlessGrepExpression" value="^.*((TEST PASSED)|(TEST FAILED)|(TabOnlineSyncClientCmd.exe )).*$" />
+                      <option name="unlessGrepExpression" value="^.*((TEST PASSED)|(TEST FAILED)|(Running Test)|(TabOnlineSyncClientCmd.exe )).*$" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="fold" value="true" />
@@ -308,6 +308,7 @@
                           <option name="id" value="135d8f79-6d8b-428b-a523-b828c07657fb" />
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value="\w+\/\w+" />
                     </GrepExpressionItem>
                   </list>
                 </option>
