@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Djava.test.config.override=datasync-precheckin -DFailOnMissingDataSource=true" />
+  </component>
+</application>
