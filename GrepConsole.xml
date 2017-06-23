@@ -4,12 +4,14 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="553f78b2-2221-464c-8cd9-1c882257ae7a" />
                       <option name="style">
@@ -32,6 +34,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="eacb4637-6b0b-40ab-924c-7ab5b9361eae" />
                       <option name="style">
@@ -47,6 +50,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="4f89ea2e-99ea-473a-9e63-4b89d3930a88" />
                       <option name="style">
@@ -62,6 +66,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="c63e86ff-730b-42e0-8b2d-913e180e9c80" />
                       <option name="style">
@@ -77,6 +82,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="148e0750-5c4a-4b89-b5be-854e77bcc3dd" />
                       <option name="style">
@@ -94,6 +100,50 @@
                   </list>
                 </option>
                 <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="^INFO" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="f8d41356-17b3-4bb1-acfc-d3849bd42440" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="d051bd58-da3f-4d63-a534-f01ee122fc60" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="runCommand: running" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="fc74a8b6-2431-4ea0-a568-db9a92251928" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="341e2cd6-5dd4-4cf6-b9a6-12a8ea9c6457" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="Tableau DataSync Test" />
               </GrepExpressionGroup>
             </list>
           </option>
