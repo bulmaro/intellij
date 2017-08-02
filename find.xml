@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Package com.tableausoftware.test.server.configuration" />
     <option name="defaultScopeName" value="Package com.tableausoftware.test.server.configuration" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Package com.tableausoftware.test.server.configuration" />
   </component>
 </application>
