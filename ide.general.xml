@@ -11,7 +11,6 @@
     <entry key="ide.tooltip.initialDelay" value="608" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="search.everywhere.files" value="false" />
-    <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="search.everywhere.actions" value="false" />
   </component>

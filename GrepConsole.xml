@@ -3,8 +3,10 @@
     <option name="profiles">
       <list>
         <Profile>
+          <option name="alwaysPinGrepConsoles" value="false" />
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
+          <option name="enableMaxLengthLimit" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -105,41 +107,96 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
-                      <option name="fold" value="true" />
-                      <option name="grepExpression" value="^INFO" />
-                      <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="f8d41356-17b3-4bb1-acfc-d3849bd42440" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="grepExpression" value="^INFO .*Running Test:.*$" />
+                      <option name="id" value="d81fae5c-d81c-431c-82ed-293d8ee68ad9" />
+                      <option name="inputFilter" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16711681" />
+                              <option name="color" value="-60644" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="d051bd58-da3f-4d63-a534-f01ee122fc60" />
+                          <option name="id" value="ced75841-8e4b-460a-80e3-a27434798ef2" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="^DataSync.*$" />
+                      <option name="id" value="1343fc8c-7bd2-44a7-b2f5-9c602ef572f5" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-3673601" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="id" value="30f83cb8-d621-4cc6-9870-47f527e9fcd1" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="^INFO.*TEST.*FAIL.*$" />
+                      <option name="id" value="c25cd484-59aa-42a5-aedc-892e3ab92b96" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65536" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2ef2f49d-693a-4b7f-810e-dd8ffbaea2be" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="^INFO.+running.*$" />
+                      <option name="id" value="bec64a43-aed0-4ace-a92f-4f4bea88852a" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-6253" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2ef2f49d-693a-4b7f-810e-dd8ffbaea2be" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value="^INFO.*TEST.*PASS.*$" />
+                      <option name="id" value="b8a33cc1-ddcf-4c9e-b191-645ce00cb77a" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711936" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="2ef2f49d-693a-4b7f-810e-dd8ffbaea2be" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="fold" value="true" />
-                      <option name="grepExpression" value="runCommand: running" />
-                      <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="fc74a8b6-2431-4ea0-a568-db9a92251928" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="grepExpression" value="^INFO .*$" />
+                      <option name="id" value="1268457f-f51a-4d10-8cf9-44fd756e592c" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-16711681" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="341e2cd6-5dd4-4cf6-b9a6-12a8ea9c6457" />
+                          <option name="id" value="a7c120a5-b5e7-4ed8-b930-97cbe879a479" />
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value="^INFO.+TEST.*$" />
                     </GrepExpressionItem>
                   </list>
                 </option>
@@ -150,6 +207,11 @@
           <option name="id" value="1493859944404" />
         </Profile>
       </list>
+    </option>
+    <option name="tailSettings">
+      <TailSettings>
+        <option name="enabled" value="true" />
+      </TailSettings>
     </option>
   </component>
 </application>
