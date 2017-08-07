@@ -153,7 +153,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value="^INFO.+running(.*)'$" />
+                      <option name="grepExpression" value="^INFO.+: running(.*)'$" />
                       <option name="id" value="bec64a43-aed0-4ace-a92f-4f4bea88852a" />
                       <option name="style">
                         <GrepStyle>
