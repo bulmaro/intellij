@@ -196,7 +196,7 @@
                           <option name="id" value="a7c120a5-b5e7-4ed8-b930-97cbe879a479" />
                         </GrepStyle>
                       </option>
-                      <option name="unlessGrepExpression" value="^INFO.+TEST.*$" />
+                      <option name="unlessGrepExpression" value="^INFO.+(TEST|(: running)).*$" />
                     </GrepExpressionItem>
                   </list>
                 </option>
